@@ -1,29 +1,64 @@
-<h1 align="center">Hi 👋, I'm Akshay Kokadwar</h1>
-<h3 align="center">Android || UI/UX </h3>
+# Akshay Kokadwar — Product Manager
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kokadwarakshay&label=Profile%20views&color=0e75b6&style=flat" alt="kokadwarakshay" /> </p>
+**Building 0→1 products at the intersection of growth, constraint, and user reality.**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kokadwarakshay" alt="kokadwarakshay" /></a> </p>
+Currently PM at [Applyo](https://applyo.in) — changing how India's MBA aspirants discover and apply to colleges. One profile. One form. 200+ colleges.
 
-<p align="left"> <a href="https://twitter.com/kokadwarakshay" target="blank"><img src="https://img.shields.io/twitter/follow/kokadwarakshay?logo=twitter&style=for-the-badge" alt="kokadwarakshay" /></a> </p>
+---
 
+## What I do
 
+I'm a product operator with an engineering foundation. I've shipped across edtech, fintech, and consumer internet — from enterprise banking infrastructure serving rural India to a SaaS product I built and exited solo.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kokadwarakshay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kokadwarakshay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akshay-kokadwar-7740671a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshay-kokadwar-7740671a7/" height="30" width="40" /></a>
-</p>
+- **Now:** PM at Applyo — owning student acquisition, college partner activation, and the full 0→1 platform build for India's MBA common application
+- **Before:** Product Operator at IRIX Technologies — rural banking app, ₹1000Cr+ monthly transactions, 1M+ assisted banking transactions/month, 15+ Indian languages
+- **Also:** Founding team at LessPay (fintech) — +20% Week-1 merchant activation; Solo founder at BizzKonnect (WhatsApp automation SaaS, built & exited)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/akshaykokaW"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akshaykokaW" /></a></p><br><br>
+## How I think
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kokadwarakshay&show_icons=true&locale=en&layout=compact" alt="kokadwarakshay" /></p>
+- Behaviour over stated intent — funnel data and support tickets tell the truth
+- Say no early, often, and with data — the best prioritisation is what you don't build
+- Constraints are the design brief, not the excuse
+- Ship to learn, not to finish
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kokadwarakshay&show_icons=true&locale=en" alt="kokadwarakshay" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kokadwarakshay&" alt="kokadwarakshay" /></p>
+## Tech I've worked with
 
+My engineering background informs how I work with product and dev teams — I write requirements that don't need a translator.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
+---
+
+## Selected work
+
+| Project | What it is | Impact |
+|---|---|---|
+| [Applyo](https://applyo.in) | India's MBA common application platform | 0→1 build — live product, 200+ colleges |
+| IRIX Banking App | Assisted banking for rural India (CSP agents, biometric auth, 15+ languages) | 1M+ txns/month, ₹1000Cr+ volume |
+| LessPay | Merchant payments onboarding | +20% Week-1 activation |
+| BizzKonnect | WhatsApp automation SaaS for SMBs | Built, monetised & exited solo |
+| SOYOC | Hyperlocal delivery, Nanded (COVID era) | 0 → 100 daily orders, Tier-3 market |
+
+---
+
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-akshaykokadwar.netlify.app-508df7?style=flat)](https://akshaykokadwar.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akshay--kokadwar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-kokadwar)
+[![Email](https://img.shields.io/badge/Email-akshaykokadwar123@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:akshaykokadwar123@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@kokadwarakshay-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kokadwarakshay)
+
+---
+
+*CS grad, VIT Bhopal '23 · Based in Bengaluru · Builder since COVID lockdowns*
