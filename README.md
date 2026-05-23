@@ -61,4 +61,4 @@ My engineering background informs how I work with product and dev teams — I wr
 
 ---
 
-*CS grad, VIT Bhopal '23 · Based in Bengaluru · Builder since COVID lockdowns*
+*CS grad, VIT Bhopal '23 · Based in Bengaluru · Product Builder *
